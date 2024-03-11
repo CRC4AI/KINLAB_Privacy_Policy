@@ -1,7 +1,7 @@
 # KINLAB_Privacy_Policy
 KINLAB's Privacy Policy
 
-‘AppleDataCollector’는 개인정보보호법에 따라 이용자들의 개인정보 보호 및 권익을 보호하고자 다음과 같은 처리방침을 두고 있습니다.
+AppleDataCollector는 개인정보보호법에 따라 이용자들의 개인정보 보호 및 권익을 보호하고자 다음과 같은 처리방침을 두고 있습니다.
 당사는 개인정보처리방침을 개정하는 경우 앱 화면 및 웹사이트 공지사항을 통하여 공지할 것입니다.
 
 ​
